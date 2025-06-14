@@ -3,8 +3,9 @@
 This project predicts students’ final grades using machine learning models.
 
 Highlights
-- RandomForest model with R² ≈ 0.93
+- RandomForest model with R² ≈ 0.80
 - Explored feature importance and effects of previous grades
+- Clear and precise analysis of factors affecting final grades of students the most
 
 File
 - 'student_performance.ipynb': Full analysis and model notebook
